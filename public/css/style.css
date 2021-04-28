@@ -1,0 +1,31 @@
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+div{
+    background: white;
+    flex-basis: 100%;
+    height: 100px;
+    margin-bottom: 0.5rem;
+}
+h1{
+    color: red;
+    
+}
+.column{
+    width: 100%;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.not{
+    text-decoration: underline;
+}
+
+
+  
+        
+    
